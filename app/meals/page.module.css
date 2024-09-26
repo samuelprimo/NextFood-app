@@ -36,6 +36,8 @@
   .loading {
     text-align: center;
     animation: loading 1.2s ease-in-out infinite;
+    font-size: 1.3rem;
+    font-style: italic;
   }
   
   @keyframes loading {
