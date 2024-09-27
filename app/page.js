@@ -21,6 +21,9 @@ export default function Home() {
     </header>
     <main>
       <section className={classes.section}>
+        <p/>
+      
+        
         <h2>How it works</h2>
         <p>
           NextLevel Food is a platform for foodies to share their favorite
